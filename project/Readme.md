@@ -1,7 +1,8 @@
 # MERN Stack Task Project
-## User Controller
+### User Controller
 ### use password js for authentication
-### last question needs to be done separately
+
+last question needs to be done separately
 1.create an api for signup for user first name, last name, email, phone number, password
 2.create an api for login using email and pass, and phone number and pass.(user can login after approved by admin ).
 
